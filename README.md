@@ -38,3 +38,10 @@ Upload file `data_balita.csv` ke Google Colab lalu jalankan script di notebook:
 
 ```python
 df = pd.read_csv('data_balita.csv')
+
+#kesimpulan
+Tinggi badan dan umur merupakan faktor utama dalam menentukan status gizi balita. Model Random Forest mampu memprediksi kategori status gizi dengan akurasi yang baik dan dapat digunakan sebagai alat bantu untuk pemantauan tumbuh kembang anak. Dataset menunjukkan bahwa beberapa kategori status gizi memiliki jumlah sampel tidak seimbang sehingga perlu penanganan lebih lanjut jika ingin meningkatkan performa model.
+* Tinggi badan dan umur merupakan faktor paling berpengaruh dalam menentukan status gizi balita.
+* Distribusi status gizi tidak merata, dengan kategori normal dan stunted paling dominan.
+* Model Random Forest mampu memprediksi status gizi dengan performa yang baik berdasarkan fitur umur, jenis kelamin, dan tinggi badan.
+* Temuan ini dapat membantu proses pemantauan pertumbuhan anak dan deteksi dini kondisi gizi bermasalah.
