@@ -4,28 +4,28 @@ Proyek analisis data balita menggunakan machine learning untuk memprediksi statu
 
 Proyek ini bertujuan untuk menganalisis data balita berdasarkan umur, jenis kelamin, dan tinggi badan untuk menentukan status gizi menggunakan metode klasifikasi machine learning.
 
-## 🎯 Tujuan Penelitian
+#Tujuan Penelitian
 - Menganalisis pola status gizi balita.
 - Mengidentifikasi faktor yang berpengaruh pada status gizi.
 - Membangun model prediksi status gizi menggunakan Random Forest.
 - Menyediakan insight untuk pemantauan tumbuh kembang anak.
 - Menjadi portofolio data analysis yang profesional.
 
-## 📁 Dataset
+#Dataset
 Dataset berisi:
 - Umur (bulan)
 - Jenis Kelamin
 - Tinggi Badan (cm)
 - Status Gizi (label)
 
-## 🧠 Tools & Library
+#Tools & Library
 - Python
 - Pandas
 - Matplotlib
 - Scikit-Learn
 - Google Colab / Jupyter Notebook
 
-## 🔧 Tahapan Proyek
+#Tahapan Proyek
 1. Import data
 2. Exploratory Data Analysis (EDA)
 3. Preprocessing
@@ -33,7 +33,7 @@ Dataset berisi:
 5. Evaluasi model
 6. Visualisasi insight
 
-## 🚀 Cara Menjalankan
+#Cara Menjalankan
 Upload file `data_balita.csv` ke Google Colab lalu jalankan script di notebook:
 
 ```python
